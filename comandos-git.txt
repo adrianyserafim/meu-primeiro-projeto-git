@@ -6,3 +6,4 @@ git commit - Confirma as alterações no repositório local
 git status - Mostra o status dos arquivos
 git branch - Lista ou cria branches
 git checkout - Alterna entre branches
+Conflito de titulo resolvido mantendo o titulo padrao.
