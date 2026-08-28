@@ -1,0 +1,8 @@
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+senha.txt
+configuracoes-locais.txt
